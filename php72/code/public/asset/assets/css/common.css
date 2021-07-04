@@ -1,0 +1,8 @@
+a.nav-link::before {
+    content: "ahflahlf";
+}
+
+.helo {
+    /* content: "world"; */
+    color: red;
+}
